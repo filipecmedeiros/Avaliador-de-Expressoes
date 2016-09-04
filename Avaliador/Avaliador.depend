@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1362770490 source:c:\users\filipe\desktop\avaliador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1362889318 source:d:\documents\engenharia da computação\3° período\lógica\projeto 1 - avaliador de expressões\avaliador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
